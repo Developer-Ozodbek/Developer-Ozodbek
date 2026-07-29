@@ -59,7 +59,6 @@ Passionate about building modern web applications with clean architecture, scala
 
 </div>
 
----
 
 ## 📈 Contribution Graph
 
@@ -67,7 +66,6 @@ Passionate about building modern web applications with clean architecture, scala
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Developer-Ozodbek&theme=tokyo-night&hide_border=true" />
 </p>
 
----
 
 ## 📫 Connect With Me
 
@@ -83,7 +81,6 @@ Passionate about building modern web applications with clean architecture, scala
 </a>
 </p>
 
----
 
 <div align="center">
 
