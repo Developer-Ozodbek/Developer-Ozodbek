@@ -49,7 +49,7 @@ Passionate about building modern web applications with clean architecture, scala
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -61,25 +61,25 @@ Passionate about building modern web applications with clean architecture, scala
 
 ---
 
-# 🐍 Contribution Snake
+## 📈 Contribution Graph
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Developer-Ozodbek/Developer-Ozodbek/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Developer-Ozodbek/Developer-Ozodbek/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Developer-Ozodbek/Developer-Ozodbek/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Developer-Ozodbek&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
-# 📫 Connect With Me
+## 📫 Connect With Me
 
 <p align="left">
 <a href="https://github.com/Developer-Ozodbek">
 <img src="https://skillicons.dev/icons?i=github"/>
+</a>
+<a href="https://t.me/ozodbektohirov">
+<img src="https://skillicons.dev/icons?i=telegram"/>
+</a>
+<a href="https://www.instagram.com/tohirov.ozodbek1">
+<img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
 </p>
 
